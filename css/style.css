@@ -7,9 +7,9 @@ header, main, footer{
 
 }
 header, footer {
-    border: 1px solid #81c4ff;
+    border: 1px solid #16588e;
     padding: 1rem;
-    background-color: #16588e;
+    background-color: #81c4ff;
 }
 header img{
     float: right;
