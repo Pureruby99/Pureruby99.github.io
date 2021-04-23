@@ -8,9 +8,9 @@ header, main, footer{
 }
 header, footer {
     margin: .5rem;
-    border: 1px solid #c1c1c1;
+    border: 1px solid #81c4ff;
     padding: .5rem;
-    background-color: #000001;
+    background-color: #16588e;
 }
 header img{
     float: right;
